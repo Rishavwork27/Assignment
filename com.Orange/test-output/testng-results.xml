@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-10T18:01:00 IST" name="Suite" finished-at="2022-02-10T18:02:03 IST" duration-ms="63222">
+    <groups>
+    </groups>
+    <test started-at="2022-02-10T18:01:00 IST" name="Test" finished-at="2022-02-10T18:02:03 IST" duration-ms="63222">
+      <class name="com.Tests.Hometest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.Tests.Hometest@35cabb2a]" started-at="2022-02-10T18:01:28 IST" name="initialization" finished-at="2022-02-10T18:01:36 IST" duration-ms="7445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="logout()[pri:0, instance:com.Tests.Hometest@35cabb2a]" started-at="2022-02-10T18:01:36 IST" name="logout" finished-at="2022-02-10T18:01:44 IST" duration-ms="8576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Tests.Hometest@35cabb2a]" started-at="2022-02-10T18:01:44 IST" name="tearDown" finished-at="2022-02-10T18:01:44 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tests.Hometest -->
+      <class name="com.Tests.Add_EmployeTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.Tests.Add_EmployeTest@3a93b025]" started-at="2022-02-10T18:01:10 IST" name="initialization" finished-at="2022-02-10T18:01:17 IST" duration-ms="7331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="clicknavToAddEmpPage()[pri:0, instance:com.Tests.Add_EmployeTest@3a93b025]" started-at="2022-02-10T18:01:17 IST" name="clicknavToAddEmpPage" finished-at="2022-02-10T18:01:28 IST" duration-ms="10809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicknavToAddEmpPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Tests.Add_EmployeTest@3a93b025]" started-at="2022-02-10T18:01:28 IST" name="tearDown" finished-at="2022-02-10T18:01:28 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tests.Add_EmployeTest -->
+      <class name="com.Tests.Add_UserTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.Tests.Add_UserTest@7e07db1f]" started-at="2022-02-10T18:01:44 IST" name="initialization" finished-at="2022-02-10T18:01:52 IST" duration-ms="7407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddingUserDetails()[pri:0, instance:com.Tests.Add_UserTest@7e07db1f]" started-at="2022-02-10T18:01:52 IST" name="AddingUserDetails" finished-at="2022-02-10T18:02:03 IST" duration-ms="10707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingUserDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Tests.Add_UserTest@7e07db1f]" started-at="2022-02-10T18:02:03 IST" name="tearDown" finished-at="2022-02-10T18:02:03 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tests.Add_UserTest -->
+      <class name="com.Tests.LoginTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.Tests.LoginTest@16293aa2]" started-at="2022-02-10T18:01:00 IST" name="initialization" finished-at="2022-02-10T18:01:09 IST" duration-ms="8939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="Logindetails()[pri:0, instance:com.Tests.LoginTest@16293aa2]" started-at="2022-02-10T18:01:09 IST" name="Logindetails" finished-at="2022-02-10T18:01:10 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Tests.LoginTest@16293aa2]" started-at="2022-02-10T18:01:10 IST" name="tearDown" finished-at="2022-02-10T18:01:10 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
