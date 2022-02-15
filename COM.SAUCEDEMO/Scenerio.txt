@@ -1,0 +1,8 @@
+SauceDemo Assignment
+
+scenario :
+1. User is able to Login Sucessfully with valid Username and Password.
+2. User is Sucessfully able to log into homepage.
+3. user is able to add items to cart.
+4. User is able to Remove item from Cart.
+5. user is able to add items to cart and then checkout item.
